@@ -1,0 +1,11 @@
+@InProceedings{effilin2018,
+  author={Lin, Jianjie and Somani, Nikhil and Hu, Biao and Rickert, Markus and Knoll, Alois},
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={An Efficient and Time-Optimal Trajectory Generation Approach for Waypoints Under Kinematic Constraints and Error Bounds}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={5869-5876},
+  doi={10.1109/IROS.2018.8593577}}
+    }
+
